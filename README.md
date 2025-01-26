@@ -1,2 +1,2 @@
 # java-new-features
-All new Java features from java9 to java 17
+All new Java features from java8 to java 21
